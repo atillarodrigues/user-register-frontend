@@ -1,6 +1,6 @@
-##Gerenciamento de Usuários - Frontend
+## Gerenciamento de Usuários - Frontend
 
-#Sobre o Projeto
+# Sobre o Projeto
 
 Este é o frontend de um sistema de cadastro e exclusão de usuários, desenvolvido com React.js e Vite. Ele permite:
 
@@ -20,7 +20,7 @@ O backend foi desenvolvido com Node.js, Prisma e MongoDB para armazenamento dos 
 - 🔹 **Prisma** - ORM para manipulação do banco de dados
 - 🔹 **MongoDB** - Banco de dados NoSQL utilizado
 
-Como Executar o Projeto
+# Como Executar o Projeto
 
 1. Clone o repositório:
 ```
@@ -57,26 +57,26 @@ Estrutura do Projeto:
   /styles        # Estilos globais
   /assets        # Ícones e imagens
 ```
-##Funcionalidades
+## Funcionalidades
 
-#Cadastro de Usuários
+# Cadastro de Usuários
 - 🔹Campos: Nome, Idade, Email
 
 - 🔹Validação: Apenas maiores de 18 anos podem ser cadastrados
 
 - 🔹Feedback visual com SweetAlert2
 
-#Listagem de Usuários
+# Listagem de Usuários
 - 🔹Exibição dos dados cadastrados
 
 - 🔹Avatar gerado automaticamente baseado no ID do usuário
 
-#Exclusão de Usuários
+# Exclusão de Usuários
 - 🔹Confirmação antes da remoção
 
 - 🔹Atualização dinâmica da lista sem necessidade de recarregar a página
 
-#Melhorias Futuras
+# Melhorias Futuras
 
 - 🔹Editar usuários cadastrados
 
